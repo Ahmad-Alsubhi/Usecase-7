@@ -1,0 +1,3 @@
+fastapi[all]
+joblib[all]
+scikit-learn[all]
